@@ -1,0 +1,532 @@
+Using pre-set license
+Built from '2020.2/release' branch; Version is '2020.2.1f1 (270dd8c3da1c) revision 2559448'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.0) 64bit' Language: 'en' Physical Memory: 16299 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.1f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/danie/Documents/GitHub/Game Dev/TowerDefense
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+63101
+Successfully changed project path to: C:/Users/danie/Documents/GitHub/Game Dev/TowerDefense
+C:/Users/danie/Documents/GitHub/Game Dev/TowerDefense
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 25.61 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.1f1 (270dd8c3da1c)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/danie/Documents/GitHub/Game Dev/TowerDefense/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2070 (ID=0x1f07)
+    Vendor:   
+    VRAM:     8031 MB
+    Driver:   27.21.14.6079
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56028
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001723 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 25.96 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.170 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000588 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.864 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1106 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 71.8 MB.
+System memory in use after: 71.8 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1578.
+Total: 1.630300 ms (FindLiveObjects: 0.120500 ms CreateObjectMapping: 0.034300 ms MarkObjects: 1.384900 ms  DeleteObjects: 0.089200 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e785c7995da20812a968104ae4e5dd7b') in 0.015929 seconds
+  Import took 0.017843 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 65.865331 seconds.
+  path: Assets/RPGMonsterPartnersPBRPolyart/Animations/Chest Monster/IdleNormal.fbx
+  artifactKey: Guid(812e90e54eb5aa3478f08ffbe7718e9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterPartnersPBRPolyart/Animations/Chest Monster/IdleNormal.fbx using Guid(812e90e54eb5aa3478f08ffbe7718e9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8994ee69ddb554ee76f69fb54914febf') in 0.190703 seconds
+  Import took 0.192899 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000153 seconds.
+  path: Assets/RPGMonsterPartnersPBRPolyart/Animations/Chest Monster/WalkRight.fbx
+  artifactKey: Guid(6cf638c79df565241b64252a5079237c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterPartnersPBRPolyart/Animations/Chest Monster/WalkRight.fbx using Guid(6cf638c79df565241b64252a5079237c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ea2fe443f68a98dd12f268ad7daf147') in 0.032369 seconds
+  Import took 0.034108 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/RPGMonsterPartnersPBRPolyart/Animations/Chest Monster/IdleNormal.fbx
+  artifactKey: Guid(812e90e54eb5aa3478f08ffbe7718e9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterPartnersPBRPolyart/Animations/Chest Monster/IdleNormal.fbx using Guid(812e90e54eb5aa3478f08ffbe7718e9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8994ee69ddb554ee76f69fb54914febf') in 0.022775 seconds
+  Import took 0.024772 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/RPGMonsterPartnersPBRPolyart/Animations/Chest Monster/WalkRight.fbx
+  artifactKey: Guid(6cf638c79df565241b64252a5079237c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterPartnersPBRPolyart/Animations/Chest Monster/WalkRight.fbx using Guid(6cf638c79df565241b64252a5079237c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ea2fe443f68a98dd12f268ad7daf147') in 0.023059 seconds
+  Import took 0.024971 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.863434 seconds.
+  path: Assets/RPGMonsterPartnersPBRPolyart/Animations/Chest Monster/WalkLeft.fbx
+  artifactKey: Guid(c8d807449f07bbd43a6a1fb7bb3ddb09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterPartnersPBRPolyart/Animations/Chest Monster/WalkLeft.fbx using Guid(c8d807449f07bbd43a6a1fb7bb3ddb09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3da7258186b7c36e01fc0192ad61bda5') in 0.028504 seconds
+  Import took 0.030582 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/RPGMonsterPartnersPBRPolyart/Animations/Chest Monster/Taunting.fbx
+  artifactKey: Guid(0995de884e5c0594f884790274ac591f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterPartnersPBRPolyart/Animations/Chest Monster/Taunting.fbx using Guid(0995de884e5c0594f884790274ac591f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81c3e794021b282eefe1ee44307bfa18') in 0.031028 seconds
+  Import took 0.033059 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/RPGMonsterPartnersPBRPolyart/Animations/Chest Monster/Victory.fbx
+  artifactKey: Guid(c6750798be33fcf438da3acc2aada547) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterPartnersPBRPolyart/Animations/Chest Monster/Victory.fbx using Guid(c6750798be33fcf438da3acc2aada547) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c59f729c67dd652d3d1f5774a83f4781') in 0.033903 seconds
+  Import took 0.035746 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/RPGMonsterPartnersPBRPolyart/Animations/Chest Monster/SenseSomethingRPT.fbx
+  artifactKey: Guid(9f98c6b5ec4730c4bbf5fd77d62e4829) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterPartnersPBRPolyart/Animations/Chest Monster/SenseSomethingRPT.fbx using Guid(9f98c6b5ec4730c4bbf5fd77d62e4829) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a95407a4c4eb967fb69bd9984707f773') in 0.029819 seconds
+  Import took 0.032024 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/RPGMonsterPartnersPBRPolyart/Animations/Chest Monster/Dizzy.fbx
+  artifactKey: Guid(9493dc08c4fa79844b7a78d5e249ec05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterPartnersPBRPolyart/Animations/Chest Monster/Dizzy.fbx using Guid(9493dc08c4fa79844b7a78d5e249ec05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0731ac34bc80d516532e051766825b7') in 0.033827 seconds
+  Import took 0.035755 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/RPGMonsterPartnersPBRPolyart/Animations/Chest Monster/Run.fbx
+  artifactKey: Guid(3010fe49e4b51dc4f97b9db3f332ba8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterPartnersPBRPolyart/Animations/Chest Monster/Run.fbx using Guid(3010fe49e4b51dc4f97b9db3f332ba8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26b3e5593458335660ecda618fd5bf09') in 0.031960 seconds
+  Import took 0.033920 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/RPGMonsterPartnersPBRPolyart/Animations/Chest Monster/IdleChest.fbx
+  artifactKey: Guid(7487d12a2915b2845b105fb2737e6829) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterPartnersPBRPolyart/Animations/Chest Monster/IdleChest.fbx using Guid(7487d12a2915b2845b105fb2737e6829) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1a01c9cf1061400766f9c6d4a945897') in 0.030346 seconds
+  Import took 0.032137 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/RPGMonsterPartnersPBRPolyart/Animations/Chest Monster/SenseSomethingST.fbx
+  artifactKey: Guid(96add26b5e87b5947bce7aaf14a4fc2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterPartnersPBRPolyart/Animations/Chest Monster/SenseSomethingST.fbx using Guid(96add26b5e87b5947bce7aaf14a4fc2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85053d1a4533551978182e913b0072ae') in 0.032259 seconds
+  Import took 0.034484 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/RPGMonsterPartnersPBRPolyart/Animations/Chest Monster/WalkFWD.fbx
+  artifactKey: Guid(0f1593bbfadd5b94a894a2cc06ba48bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterPartnersPBRPolyart/Animations/Chest Monster/WalkFWD.fbx using Guid(0f1593bbfadd5b94a894a2cc06ba48bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '449e53b354b6920f3b52da431e02daa2') in 0.029901 seconds
+  Import took 0.031837 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/RPGMonsterPartnersPBRPolyart/Animations/Chest Monster/WalkLeft.fbx
+  artifactKey: Guid(c8d807449f07bbd43a6a1fb7bb3ddb09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterPartnersPBRPolyart/Animations/Chest Monster/WalkLeft.fbx using Guid(c8d807449f07bbd43a6a1fb7bb3ddb09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3da7258186b7c36e01fc0192ad61bda5') in 0.021750 seconds
+  Import took 0.023647 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/RPGMonsterPartnersPBRPolyart/Animations/Chest Monster/WalkBWD.fbx
+  artifactKey: Guid(60233971c33dd05458b9d663512746b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterPartnersPBRPolyart/Animations/Chest Monster/WalkBWD.fbx using Guid(60233971c33dd05458b9d663512746b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '681053ec9dd7777ffc78e3ac82a7cbe6') in 0.029247 seconds
+  Import took 0.031187 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.648609 seconds.
+  path: Assets/RPGMonsterPartnersPBRPolyart/Animations/Chest Monster/GetHit.fbx
+  artifactKey: Guid(f7f078c42fd6eb34ca66c38d7bab6015) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterPartnersPBRPolyart/Animations/Chest Monster/GetHit.fbx using Guid(f7f078c42fd6eb34ca66c38d7bab6015) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5dff62de78be1181f56fc69874e9d6fa') in 0.030491 seconds
+  Import took 0.032631 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/RPGMonsterPartnersPBRPolyart/Animations/Chest Monster/Die.fbx
+  artifactKey: Guid(85232ae3956332f4cb784c94eed2d3c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterPartnersPBRPolyart/Animations/Chest Monster/Die.fbx using Guid(85232ae3956332f4cb784c94eed2d3c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd06b528f7b1259aad7761caa492c50b') in 0.030507 seconds
+  Import took 0.032406 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/RPGMonsterPartnersPBRPolyart/Animations/Chest Monster/IdleBattle.fbx
+  artifactKey: Guid(ef2ca70faa4d0dd4295aafc44ae3b860) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterPartnersPBRPolyart/Animations/Chest Monster/IdleBattle.fbx using Guid(ef2ca70faa4d0dd4295aafc44ae3b860) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62bae69e1a82aef71172a231f51a6736') in 0.032220 seconds
+  Import took 0.034069 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/RPGMonsterPartnersPBRPolyart/Materials/PBRDefault.mat
+  artifactKey: Guid(c3facc6536b8be44db48df63cd0279e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterPartnersPBRPolyart/Materials/PBRDefault.mat using Guid(c3facc6536b8be44db48df63cd0279e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c1ccbf99525b0872899612920e263bc') in 0.027861 seconds
+  Import took 0.029599 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/RPG Monster Duo PBR Polyart/Materials/PolyartDefault.mat
+  artifactKey: Guid(507d4aa237c275a48b72e5772879be66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG Monster Duo PBR Polyart/Materials/PolyartDefault.mat using Guid(507d4aa237c275a48b72e5772879be66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7baae8d5a7e3ac8dcff3438434a5bec8') in 0.026146 seconds
+  Import took 0.027896 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/RPGMonsterPartnersPBRPolyart/Animations/Chest Monster/Attack02.fbx
+  artifactKey: Guid(4b2ee3d51074f8e438978ba066b2e25d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterPartnersPBRPolyart/Animations/Chest Monster/Attack02.fbx using Guid(4b2ee3d51074f8e438978ba066b2e25d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa6c65108bf1f382ea2843302ca46f18') in 0.029284 seconds
+  Import took 0.031383 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/RPGMonsterPartnersPBRPolyart/Animations/Chest Monster/Attack01.fbx
+  artifactKey: Guid(30808428c4200c44ca7416b9ecece63b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterPartnersPBRPolyart/Animations/Chest Monster/Attack01.fbx using Guid(30808428c4200c44ca7416b9ecece63b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '726d8c8a06f0d002c9e7debeb05939f0') in 0.030019 seconds
+  Import took 0.031920 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/RPGMonsterPartnersPBRPolyart/Animations/Chest Monster/Attack02.fbx
+  artifactKey: Guid(4b2ee3d51074f8e438978ba066b2e25d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterPartnersPBRPolyart/Animations/Chest Monster/Attack02.fbx using Guid(4b2ee3d51074f8e438978ba066b2e25d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa6c65108bf1f382ea2843302ca46f18') in 0.024022 seconds
+  Import took 0.025989 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/RPGMonsterPartnersPBRPolyart/Materials/PolyartDefault.mat
+  artifactKey: Guid(cce105f52f5504843a9896a9e1aeccd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterPartnersPBRPolyart/Materials/PolyartDefault.mat using Guid(cce105f52f5504843a9896a9e1aeccd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5731a33abb9354b5f4a9f38800953a41') in 0.023487 seconds
+  Import took 0.025228 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.741015 seconds.
+  path: Assets/RPGMonsterPartnersPBRPolyart/Materials/Skybox_Mat.mat
+  artifactKey: Guid(8dd528f4148d7344ea60e001bea3b53d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterPartnersPBRPolyart/Materials/Skybox_Mat.mat using Guid(8dd528f4148d7344ea60e001bea3b53d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65ae15b18ef51c26b3e5edcf2000e873') in 0.021145 seconds
+  Import took 0.022971 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/RPGMonsterPartnersPBRPolyart/Materials/Stage.mat
+  artifactKey: Guid(8a25b6cb45667e2478a4a9729a016ffb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterPartnersPBRPolyart/Materials/Stage.mat using Guid(8a25b6cb45667e2478a4a9729a016ffb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90c98b369920aa68cd0c6a4a61b56593') in 0.251493 seconds
+  Import took 0.253134 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/RPG Monster Duo PBR Polyart/Materials/Stage.mat
+  artifactKey: Guid(19f8a934c4d1c2b47b1d094b83f39fb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG Monster Duo PBR Polyart/Materials/Stage.mat using Guid(19f8a934c4d1c2b47b1d094b83f39fb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '935c88053340838db2696f23571f277c') in 0.015417 seconds
+  Import took 0.017088 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/RPG Monster Duo PBR Polyart/Materials/Skybox_Mat.mat
+  artifactKey: Guid(97f1fc767078c904184a5800339690a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG Monster Duo PBR Polyart/Materials/Skybox_Mat.mat using Guid(97f1fc767078c904184a5800339690a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1f1463fc84ceb2d58b0fcf743c8e8a0') in 0.014747 seconds
+  Import took 0.016391 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/RPG Monster Duo PBR Polyart/Materials/SlimePBR.mat
+  artifactKey: Guid(d357a802e5ef4d44d829d89dfb1a341c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG Monster Duo PBR Polyart/Materials/SlimePBR.mat using Guid(d357a802e5ef4d44d829d89dfb1a341c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0be87d416b1e7bfd753a88093ab95cfa') in 0.013931 seconds
+  Import took 0.015847 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.663583 seconds.
+  path: Assets/RPG Monster Duo PBR Polyart/Materials/TurtleShellPBR.mat
+  artifactKey: Guid(b3ad386aba28716448079dcf67d7aede) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG Monster Duo PBR Polyart/Materials/TurtleShellPBR.mat using Guid(b3ad386aba28716448079dcf67d7aede) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef203b7235c824d58063e807dc021a52') in 0.013060 seconds
+  Import took 0.014943 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 355.968873 seconds.
+  path: Assets/Scripts/Menu.cs
+  artifactKey: Guid(0d539881e2093f84e89f7164c35d4701) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Menu.cs using Guid(0d539881e2093f84e89f7164c35d4701) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc8c1d68d26e1bfdeaa770a8c8f0e7d3') in 0.012261 seconds
+  Import took 0.014399 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000604 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.797 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1102 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.4 MB.
+System memory in use after: 87.5 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1625.
+Total: 1.916400 ms (FindLiveObjects: 0.225000 ms CreateObjectMapping: 0.109800 ms MarkObjects: 1.400800 ms  DeleteObjects: 0.179100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000600 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.782 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1102 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.4 MB.
+System memory in use after: 87.5 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1627.
+Total: 1.677800 ms (FindLiveObjects: 0.146200 ms CreateObjectMapping: 0.088400 ms MarkObjects: 1.368200 ms  DeleteObjects: 0.073100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 74.823042 seconds.
+  path: Assets/Scripts/Menu.cs
+  artifactKey: Guid(0d539881e2093f84e89f7164c35d4701) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Menu.cs using Guid(0d539881e2093f84e89f7164c35d4701) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5d28e02e63ec936ab67dc3c59006b9c') in 0.003780 seconds
+  Import took 0.005574 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000594 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.761 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1102 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.4 MB.
+System memory in use after: 87.5 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1629.
+Total: 1.638600 ms (FindLiveObjects: 0.168800 ms CreateObjectMapping: 0.116100 ms MarkObjects: 1.277400 ms  DeleteObjects: 0.074800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 106.850848 seconds.
+  path: Assets/Prefabs/BeholderPBR.prefab
+  artifactKey: Guid(8021e5e80090e594bb2a43aadfa48be6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/BeholderPBR.prefab using Guid(8021e5e80090e594bb2a43aadfa48be6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0e5898ffaedd8c45aebe7b36dba554b') in 0.094668 seconds
+  Import took 0.096794 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.365829 seconds.
+  path: Assets/Prefabs/SlimePBR.prefab
+  artifactKey: Guid(ef6b8de20f335144abe285a4cdcff966) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/SlimePBR.prefab using Guid(ef6b8de20f335144abe285a4cdcff966) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5d0ce44ace432f8e5cf89ffc9df347f') in 0.015174 seconds
+  Import took 0.017215 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000618 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.768 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1102 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.5 MB.
+System memory in use after: 87.5 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1632.
+Total: 1.426900 ms (FindLiveObjects: 0.116700 ms CreateObjectMapping: 0.033600 ms MarkObjects: 1.206300 ms  DeleteObjects: 0.069500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.414806 seconds.
+  path: Assets/Prefabs/TurtleShellPBR.prefab
+  artifactKey: Guid(0794461184bbb96479a631e62595a947) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/TurtleShellPBR.prefab using Guid(0794461184bbb96479a631e62595a947) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6735335a2a201792dd940a7aee59201b') in 0.096298 seconds
+  Import took 0.098302 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.357619 seconds.
+  path: Assets/Prefabs/TurtleShellPBR.prefab
+  artifactKey: Guid(0794461184bbb96479a631e62595a947) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/TurtleShellPBR.prefab using Guid(0794461184bbb96479a631e62595a947) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6735335a2a201792dd940a7aee59201b') in 0.012395 seconds
+  Import took 0.014508 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 64.843315 seconds.
+  path: Assets/Prefabs/BeholderPBR.prefab
+  artifactKey: Guid(8021e5e80090e594bb2a43aadfa48be6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/BeholderPBR.prefab using Guid(8021e5e80090e594bb2a43aadfa48be6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd960d357a44b13c67e97ad6afcd5608c') in 0.014037 seconds
+  Import took 0.016032 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000606 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.764 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1102 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.5 MB.
+System memory in use after: 87.6 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1635.
+Total: 1.771200 ms (FindLiveObjects: 0.126300 ms CreateObjectMapping: 0.033200 ms MarkObjects: 1.529800 ms  DeleteObjects: 0.080400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 2291.905189 seconds.
+  path: Assets/GrassFlowers
+  artifactKey: Guid(b0d7d4342202c474b9eaaa665766e8cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GrassFlowers using Guid(b0d7d4342202c474b9eaaa665766e8cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e48980d84ad0aed0a8bb36b791564583') in 0.019442 seconds
+  Import took 0.021743 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.973258 seconds.
+  path: Assets/GrassFlowers/Textures
+  artifactKey: Guid(46c1725cb7280074493bd8d9d2ab7468) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GrassFlowers/Textures using Guid(46c1725cb7280074493bd8d9d2ab7468) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd3f8dfd7915e7e58784eadf10e8582b') in 0.008442 seconds
+  Import took 0.010163 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 0.69 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 65.7 MB.
+System memory in use after: 65.8 MB.
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1635.
+Total: 2.838900 ms (FindLiveObjects: 0.154400 ms CreateObjectMapping: 0.038100 ms MarkObjects: 2.571200 ms  DeleteObjects: 0.073600 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 0.70 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 65.7 MB.
+System memory in use after: 65.8 MB.
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1635.
+Total: 2.132600 ms (FindLiveObjects: 0.134300 ms CreateObjectMapping: 0.032500 ms MarkObjects: 1.882300 ms  DeleteObjects: 0.082000 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
